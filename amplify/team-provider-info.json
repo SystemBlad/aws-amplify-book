@@ -1,0 +1,14 @@
+{
+    "winof": {
+        "awscloudformation": {
+            "AuthRoleName": "hapsto-winof-20191022170423-authRole",
+            "UnauthRoleArn": "arn:aws:iam::285969510977:role/hapsto-winof-20191022170423-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::285969510977:role/hapsto-winof-20191022170423-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "hapsto-winof-20191022170423-deployment",
+            "UnauthRoleName": "hapsto-winof-20191022170423-unauthRole",
+            "StackName": "hapsto-winof-20191022170423",
+            "StackId": "arn:aws:cloudformation:us-east-2:285969510977:stack/hapsto-winof-20191022170423/0dfdd530-f518-11e9-9390-06fb840c1544"
+        }
+    }
+}
